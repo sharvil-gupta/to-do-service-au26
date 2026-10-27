@@ -21,7 +21,7 @@ GFM (GitHub Flavored Markdown) has additional features that
 some Markdown implementations don't have, such as tables and
 task lists. Markdown (GFM) can be a little complex to learn
 if you're not familiar with markup languages used to insert
-links, formatting, and tables.
+links, formatting, and tables
 
 ## Common Markdown Notation
 
