@@ -24,6 +24,17 @@ if you're not familiar with markup languages used to insert
 links, formatting, and tables
 
 ## Common Markdown Notation
+Markdown provides great formatting for technical documentation and GitHub files and README files for software conglomerations. 
+There are easy ways to distinguish text in header, format bold, italics, and underline with indicating punctuation marks. 
+Markdown looks like HTML in some ways and has similar features. 
+Markdown uses simple symbols like a coding language to serve as commentary or guiding literature on technical documentation
+or code commenting for code architecture and infrastructure within the context of software development. 
+Markdown is found in API documentation on GitHub, GitHub Issues, and project wikis. It's important to know that 
+Markdown is plain text. GFM (GitHub flavored markdown) has additional features that some markdown language 
+don’t have like tables and task lists. Markdown (GFM) can be a little complex to learn if you’re not familiar 
+with other markdown languages to insert links, rendering, and tables. 
+
+# Common Markdown Notation
 
 Markdown is a lightweight markup language used to format
 documentation in GitHub.
@@ -32,6 +43,7 @@ documentation in GitHub.
 
 | Feature | Markdown Syntax | Purpose |
 | --- | --- | --- |
+|---|---|---|
 | Heading | `# Heading` | Main heading |
 | Subheading | `## Subheading` | Section heading |
 | Bold | `**Bold text**` | Emphasizes text |
@@ -125,3 +137,8 @@ to become familiar with its syntax.
 
 **AI Disclosure:** I used ChatGPT to help create the table,
 organize the information, and correct Markdown formatting.
+**Tip:** Practice Markdown in GitHub Issues or
+README.md files to become familiar with its syntax.
+
+** used ChatGPT to create table and organizing the info 
+
