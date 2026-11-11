@@ -1,4 +1,3 @@
-
 # Markdown for Technical Documentation
 
 Markdown provides great formatting for technical documentation,
