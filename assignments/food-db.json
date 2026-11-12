@@ -1,0 +1,282 @@
+
+{
+  "seafood": [
+    {
+      "id": 1,
+      "name": "Atlantic Salmon",
+      "price": 24.99,
+      "importedFrom": "Norway - Atlantic salmon farm",
+      "meatType": "Fatty, firm, pink fillet",
+      "quality": "Premium, fresh",
+      "expirationDate": "2026-11-13"
+    },
+    {
+      "id": 2,
+      "name": "Yellowfin Tuna",
+      "price": 29.99,
+      "importedFrom": "Maldives - Indian Ocean fishery",
+      "meatType": "Lean, firm, deep-red steak",
+      "quality": "Premium, frozen",
+      "expirationDate": "2027-02-15"
+    },
+    {
+      "id": 3,
+      "name": "Pacific Halibut",
+      "price": 32.50,
+      "importedFrom": "United States - Alaska fishery",
+      "meatType": "Lean, flaky, white fillet",
+      "quality": "Premium, fresh",
+      "expirationDate": "2026-11-13"
+    },
+    {
+      "id": 4,
+      "name": "Black Tiger Shrimp",
+      "price": 19.99,
+      "importedFrom": "Vietnam - coastal shrimp farm",
+      "meatType": "Firm, sweet shellfish meat",
+      "quality": "Large, frozen",
+      "expirationDate": "2027-03-01"
+    },
+    {
+      "id": 5,
+      "name": "Maine Lobster",
+      "price": 48.00,
+      "importedFrom": "United States - Maine fishery",
+      "meatType": "Tender, sweet claw and tail meat",
+      "quality": "Premium, live",
+      "expirationDate": "2026-11-12"
+    },
+    {
+      "id": 6,
+      "name": "King Crab Legs",
+      "price": 58.00,
+      "importedFrom": "United States - Alaska fishery",
+      "meatType": "Rich, sweet leg meat",
+      "quality": "Premium, frozen",
+      "expirationDate": "2027-02-28"
+    },
+    {
+      "id": 7,
+      "name": "Sea Scallops",
+      "price": 27.50,
+      "importedFrom": "United States - Massachusetts fishery",
+      "meatType": "Tender, buttery adductor muscle",
+      "quality": "Dry-packed, fresh",
+      "expirationDate": "2026-11-12"
+    },
+    {
+      "id": 8,
+      "name": "Blue Mussels",
+      "price": 16.00,
+      "importedFrom": "Canada - Prince Edward Island mussel farm",
+      "meatType": "Tender, briny shellfish meat",
+      "quality": "Fresh, live",
+      "expirationDate": "2026-11-12"
+    },
+    {
+      "id": 9,
+      "name": "Pacific Oysters",
+      "price": 18.00,
+      "importedFrom": "United States - Washington oyster farm",
+      "meatType": "Soft, briny oyster meat",
+      "quality": "Premium, live",
+      "expirationDate": "2026-11-14"
+    },
+    {
+      "id": 10,
+      "name": "Red Snapper",
+      "price": 26.99,
+      "importedFrom": "United States - Gulf of Mexico fishery",
+      "meatType": "Lean, mildly sweet, white fillet",
+      "quality": "Premium, fresh",
+      "expirationDate": "2026-11-13"
+    },
+    {
+      "id": 11,
+      "name": "Chilean Sea Bass",
+      "price": 42.00,
+      "importedFrom": "Chile - Southern Ocean fishery",
+      "meatType": "Rich, buttery, white fillet",
+      "quality": "Premium, frozen",
+      "expirationDate": "2027-01-30"
+    },
+    {
+      "id": 12,
+      "name": "Dungeness Crab",
+      "price": 38.00,
+      "importedFrom": "United States - California coastal fishery",
+      "meatType": "Sweet, delicate crab meat",
+      "quality": "Fresh, cooked",
+      "expirationDate": "2026-11-13"
+    },
+    {
+      "id": 13,
+      "name": "Rainbow Trout",
+      "price": 21.50,
+      "importedFrom": "United States - Idaho trout farm",
+      "meatType": "Tender, delicate, pink-white fillet",
+      "quality": "Fresh, farm-raised",
+      "expirationDate": "2026-11-13"
+    },
+    {
+      "id": 14,
+      "name": "Octopus",
+      "price": 25.00,
+      "importedFrom": "Spain - Galicia fishery",
+      "meatType": "Firm, meaty tentacles",
+      "quality": "Premium, frozen",
+      "expirationDate": "2027-03-15"
+    },
+    {
+      "id": 15,
+      "name": "Calamari",
+      "price": 17.99,
+      "importedFrom": "United States - California coastal fishery",
+      "meatType": "Mild, tender squid rings and tentacles",
+      "quality": "Cleaned, frozen",
+      "expirationDate": "2027-02-20"
+    }
+  ]
+}
+
+
+{
+  "italianFoods": [
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "price": 18.99,
+      "importedFrom": "Italy - Naples, Campania",
+      "meatType": "Vegetarian, mozzarella, tomato, basil",
+      "quality": "Premium, freshly prepared",
+      "expirationDate": "2026-11-13"
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti Carbonara",
+      "price": 22.50,
+      "importedFrom": "Italy - Rome, Lazio",
+      "meatType": "Pork guanciale, egg, Pecorino Romano",
+      "quality": "Authentic, freshly prepared",
+      "expirationDate": "2026-11-13"
+    },
+    {
+      "id": 3,
+      "name": "Lasagna Bolognese",
+      "price": 24.99,
+      "importedFrom": "Italy - Bologna, Emilia-Romagna",
+      "meatType": "Ground beef, pork, pasta, bechamel",
+      "quality": "Premium, oven-baked",
+      "expirationDate": "2026-11-14"
+    },
+    {
+      "id": 4,
+      "name": "Fettuccine Alfredo",
+      "price": 21.99,
+      "importedFrom": "Italy - Rome, Lazio",
+      "meatType": "Vegetarian, pasta, butter, Parmesan",
+      "quality": "Fresh, handmade pasta",
+      "expirationDate": "2026-11-13"
+    },
+    {
+      "id": 5,
+      "name": "Chicken Parmigiana",
+      "price": 26.00,
+      "importedFrom": "United States - Italian-American cuisine",
+      "meatType": "Breaded chicken breast, mozzarella, tomato",
+      "quality": "Premium, freshly cooked",
+      "expirationDate": "2026-11-13"
+    },
+    {
+      "id": 6,
+      "name": "Risotto alla Milanese",
+      "price": 25.50,
+      "importedFrom": "Italy - Milan, Lombardy",
+      "meatType": "Vegetarian, Arborio rice, saffron, cheese",
+      "quality": "Premium, freshly prepared",
+      "expirationDate": "2026-11-13"
+    },
+    {
+      "id": 7,
+      "name": "Osso Buco",
+      "price": 38.00,
+      "importedFrom": "Italy - Milan, Lombardy",
+      "meatType": "Slow-braised veal shank",
+      "quality": "Premium, slow-cooked",
+      "expirationDate": "2026-11-14"
+    },
+    {
+      "id": 8,
+      "name": "Penne Arrabbiata",
+      "price": 19.50,
+      "importedFrom": "Italy - Rome, Lazio",
+      "meatType": "Vegetarian, pasta, spicy tomato sauce",
+      "quality": "Fresh, traditional recipe",
+      "expirationDate": "2026-11-13"
+    },
+    {
+      "id": 9,
+      "name": "Eggplant Parmigiana",
+      "price": 20.99,
+      "importedFrom": "Italy - Southern Italy",
+      "meatType": "Vegetarian, eggplant, mozzarella, tomato",
+      "quality": "Premium, oven-baked",
+      "expirationDate": "2026-11-14"
+    },
+    {
+      "id": 10,
+      "name": "Gnocchi al Pesto",
+      "price": 23.00,
+      "importedFrom": "Italy - Genoa, Liguria",
+      "meatType": "Vegetarian, potato dumplings, basil pesto",
+      "quality": "Handmade, freshly prepared",
+      "expirationDate": "2026-11-13"
+    },
+    {
+      "id": 11,
+      "name": "Ravioli Ricotta e Spinaci",
+      "price": 24.50,
+      "importedFrom": "Italy - Tuscany",
+      "meatType": "Vegetarian, ricotta, spinach, pasta",
+      "quality": "Premium, handmade pasta",
+      "expirationDate": "2026-11-14"
+    },
+    {
+      "id": 12,
+      "name": "Bistecca alla Fiorentina",
+      "price": 58.00,
+      "importedFrom": "Italy - Florence, Tuscany",
+      "meatType": "Thick-cut beef T-bone steak",
+      "quality": "Prime, dry-aged beef",
+      "expirationDate": "2026-11-15"
+    },
+    {
+      "id": 13,
+      "name": "Prosciutto e Melone",
+      "price": 17.99,
+      "importedFrom": "Italy - Parma, Emilia-Romagna",
+      "meatType": "Dry-cured pork ham, fresh cantaloupe",
+      "quality": "Premium, imported prosciutto",
+      "expirationDate": "2026-11-15"
+    },
+    {
+      "id": 14,
+      "name": "Tiramisu",
+      "price": 12.50,
+      "importedFrom": "Italy - Veneto",
+      "meatType": "Dessert, mascarpone, coffee, ladyfingers",
+      "quality": "Fresh, house-made",
+      "expirationDate": "2026-11-16"
+    },
+    {
+      "id": 15,
+      "name": "Cannoli Siciliani",
+      "price": 11.99,
+      "importedFrom": "Italy - Sicily",
+      "meatType": "Dessert, ricotta cream, crispy pastry",
+      "quality": "Premium, freshly filled",
+      "expirationDate": "2026-11-13"
+    }
+  ]
+}
+
